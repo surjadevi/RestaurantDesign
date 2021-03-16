@@ -11,7 +11,7 @@ https://www.figma.com/file/tDzs8Oo8guuuDL3R2BrVpt/resturant-web?node-id=0%3A1
 
 The below screenshot shows both desktop and mobile version:
 
-![alt text](https://github.com/surjadevi/resturantdesign/blob/main/allweb.png)
+![alt text](https://github.com/surjadevi/resturantdesign/blob/main/reshome.png)
 
 The below screenshot shows desktop  version:
 
