@@ -1,7 +1,7 @@
 # Resturant Home Page
 
 ## Description
-In this project, I have created a desktop and mobile version design for a Resturant. 
+In this project, I have created a desktop and mobile version design for a Restaurant. 
 I have used Figma to design the responsive site. For the common part, I created a component and used in a different part of the page.
 
 Here is the figma link that you can view my design:
